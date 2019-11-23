@@ -1,9 +1,8 @@
 Assignment 4
-—————————
 
 This repository uses some code for environments and algorithms found in the credits at the bottom. It is worth noting that you need to use the `mdp_copy` file and `modified_frozen_lake.py` file from this repository as I have modified them to suit my needs.
 
-1. Clone the repository
+1. Clone the repository: https://github.com/BradHudson/A4/tree/master
 2. Ensure you have python 3 installed
 3. Overwrite your local frozen_lake.py environment with my `modified_frozen_lake.py` contents. 
 4. You will need to install the python libraries matplotlib, numpy, gym, and seaborn
